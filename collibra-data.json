@@ -1,0 +1,38 @@
+[
+  {
+    "id": "101-123-v123",
+    "name": "Self-Serve",
+    "short_desc": "Ability to build own reports from numerous fields",
+    "category": "cat_a"
+  },
+  {
+    "id": "102-123-c124",
+    "name": "APAC Claims",
+    "short_desc": "Claims reporting for APAC",
+    "category": "cat_b"
+  },
+  {
+    "id": "103-123-c125",
+    "name": "HX Markets Carrier",
+    "short_desc": "HX Markets Carrier Dashboard",
+    "category": "cat_c"
+  },
+  {
+    "id": "104-123-c126",
+    "name": "Finance Adjustments",
+    "short_desc": "Application to process accruals, deferrals and other adjustments to revenue",
+    "category": "cat_d"
+  },
+  {
+    "id": "105-123-c127",
+    "name": "Balance Sheet",
+    "short_desc": "Dashboard containing ledger figures",
+    "category": "cat_e"
+  },
+  {
+    "id": "106-123-c128",
+    "name": "Bowood BinderSight",
+    "short_desc": "Binder performance dashboard for Bowood",
+    "category": "cat_c"
+  }
+]
