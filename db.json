@@ -28,11 +28,5 @@
     "name": "Balance Sheet",
     "short_desc": "Dashboard containing ledger figures",
     "category": "cat_e"
-  },
-  {
-    "id": "106-123-c128",
-    "name": "Bowood BinderSight",
-    "short_desc": "Binder performance dashboard for Bowood",
-    "category": "cat_c"
   }
 ]
